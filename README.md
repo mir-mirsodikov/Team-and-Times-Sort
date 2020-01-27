@@ -1,4 +1,4 @@
-#Project Name: Times and Teams Sort
+# Project Name: Times and Teams Sort
     ###Name: Mukhammad Mirsodikov
     ###Date: January 23 2020
 
